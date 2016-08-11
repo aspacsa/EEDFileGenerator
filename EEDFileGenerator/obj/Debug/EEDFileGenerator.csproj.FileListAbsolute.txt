@@ -1,0 +1,6 @@
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\bin\Debug\EEDFileGenerator.exe.config
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\bin\Debug\EEDFileGenerator.exe
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\bin\Debug\EEDFileGenerator.pdb
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\obj\Debug\EEDFileGenerator.exe
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\obj\Debug\EEDFileGenerator.pdb
+C:\Users\Ernesto Rodriguez\Projects\Practice\EEDFileGenerator\EEDFileGenerator\obj\Debug\EEDFileGenerator.csprojResolveAssemblyReference.cache
